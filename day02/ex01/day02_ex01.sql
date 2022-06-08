@@ -1,0 +1,9 @@
+-- Please write a SQL statement which
+-- returns the missing days from the interval
+-- from 1st to 10th of January 2022
+-- for visits of persons
+-- with identifiers 1 and 2.
+-- Please order by visiting days
+-- in ascending mode.
+-- The sample of data with
+-- column name is presented below.
